@@ -1,0 +1,41 @@
+.input-fields{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  padding: 20px;
+}
+.inp-label{
+  font-size: 15px;
+}
+.inp-box{
+  border: none;
+  outline: none;
+  background-color: transparent;
+  border-bottom: 2px solid #9b9b9b;
+  overflow: hidden;
+}
+.btn{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.btn button{
+ padding: 10px;
+ width: 200px;
+ border-radius: 30px;
+ border: 0;
+ background: rgb(189, 172, 19);
+ color: white;
+ font-weight: bold;
+}
+.btn button:active {
+  background: rgb(19, 169, 189);
+ }
+ .error-message{
+  color: red;
+  font-size: 12px;
+font-weight: bold;
+width: 60%;
+text-align: center;
+text-decoration: underline;
+padding: 5px;
+ }
