@@ -10,4 +10,8 @@
   ## Enjoy ✨  
 Let's the Time to fun with this awesome react app
 
-![ScrrenShots](https://github.com/DHANRAJCHOUDHARY244/emicalculator/blob/main/img/1.png?raw=true)https://github.com/DHANRAJCHOUDHARY244/emicalculator/blob/main/img/1.png?raw=true)
+![ScrrenShots](https://github.com/DHANRAJCHOUDHARY244/emicalculator/blob/main/img/1.png?raw=true)
+![ScrrenShots](https://github.com/DHANRAJCHOUDHARY244/emicalculator/blob/main/img/2.png?raw=true)
+![ScrrenShots](https://github.com/DHANRAJCHOUDHARY244/emicalculator/blob/main/img/3.png?raw=true)
+![ScrrenShots](https://github.com/DHANRAJCHOUDHARY244/emicalculator/blob/main/img/5.png?raw=true)
+![ScrrenShots](https://github.com/DHANRAJCHOUDHARY244/emicalculator/blob/main/img/6.png?raw=true)
